@@ -1,0 +1,44 @@
+{
+    "pong":{
+        "path":"./roms/Pong.ch8",
+        "cpr":10,
+        "fps":60,
+        "desc": "Classic game. Use Q and 1 to move right paddle."
+    },
+    "brick":{
+        "path":"./roms/Brick.ch8",
+        "cpr":10,
+        "fps":60,
+        "desc": "Another classic game. Use Q and W to move the paddle."
+    },
+    "tetris":{
+        "path":"./roms/Tetris [Fran Dachille, 1991].ch8",
+        "cpr":10,
+        "fps":30,
+        "desc": "The most sold video game as far as I know."
+    },
+    "tic-tac-toe":{
+        "path":"./roms/Tic-Tac-Toe.ch8",
+        "cpr":10,
+        "fps":60,
+        "desc": "Should I explain anything?"
+    },
+    "airplane":{
+        "path":"./roms/Airplane.ch8",
+        "cpr":10,
+        "fps":60,
+        "desc": "Warthunder but better."
+    },
+    "snek":{
+        "path":"./roms/snek.ch8",
+        "cpr":10,
+        "fps":30,
+        "desc": "Well, it's a snake game."
+    },
+    "tank":{
+        "path":"./roms/Tank.ch8",
+        "cpr":10,
+        "fps":60,
+        "desc": "Almost like World of tanks."
+    }
+}
